@@ -1,0 +1,19 @@
+{
+"features.0.weight": 0.00390625,
+"features.0.bias": 6.103515625e-05,
+"features.3.weight": 0.00390625,
+"features.3.bias": 0.0001220703125,
+"classifier.0.weight": 0.00390625,
+"classifier.0.bias": 0.00048828125,
+"classifier.2.weight": 0.00390625,
+"classifier.2.bias": 0.00048828125,
+"classifier.3.weight": 0.00390625,
+"classifier.3.bias": 0.000244140625,
+"input": 0.015625,
+"PPQ_Variable_18": 0.03125,
+"PPQ_Variable_36": 0.125,
+"/Flatten_output_0": 0.125,
+"PPQ_Variable_60": 0.125,
+"PPQ_Variable_78": 0.0625,
+"PPQ_Variable_96": 0.25
+}
